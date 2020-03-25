@@ -1,0 +1,1 @@
+0<FieldType::Integer>       628<FieldType::Double>        40<FieldType::Double>;
