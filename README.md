@@ -4,7 +4,7 @@ Semestral work in C++. The application simulates basic principles of relational 
 
 # What I Learned
 
-* Fixing somewhat complicated memory leaks using debugger in Visual Studio.
+* Fixing complicated memory leaks using debugger within Visual Studio.
 * Custom implementation of exception class.
 * Linking library with run application.
 * Further practice of working with C++ language without libraries.
